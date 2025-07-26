@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00A2FF&height=200&section=header&text=ArchIsDead&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Creator%20of%20RE-Hub&descAlignY=50" alt="Header" />
+
 <!-- DYNAMIC HEADER WITH WAVING ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=ArchIsDead&fontSize=70&fontColor=00f7ff&fontAlignY=40&animation=fadeIn&stroke=00f7ff&strokeWidth=3&desc=RE-Hub%20Developer&descAlignY=65&descSize=20" alt="header"/>
 
@@ -57,6 +59,6 @@
 </p>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer&stroke=00f7ff&strokeWidth=3&animation=fadeIn&rotate=180" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00A2FF&height=100&section=footer" alt="footer"/>
 
 </div>
