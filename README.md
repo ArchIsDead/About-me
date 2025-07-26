@@ -38,15 +38,14 @@
   </a>
 </p>
 
-<!-- ROBLOX PROFILE - WORKING AVATAR -->
-<h2 align="center"> 
-  <img src="https://img.shields.io/badge/-🎮_Roblox_Profile-00f7ff?style=for-the-badge&logoWidth=30"/>
-</h2>
+<!-- VISITOR COUNTER -->
 <p align="center">
-  <a href="https://www.roblox.com/users/3532024703/profile" target="_blank">
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=ArchIsDead&show_icons=false&title_color=00f7ff&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=true&card_width=300&custom_title=ArchIsDead%27s%20Roblox%20Profile&disable_animations=true&line_height=24&text_bold=false&description=User%20ID:%203532024703" alt="Roblox Profile"/>
-    <img width="150" src="https://tr.rbxcdn.com/ed6e4d8d8c1d7e9c9e8f3e3e8f3e3e8f/150/150/Avatar/Png" alt="Roblox Avatar" style="border-radius:50%;border:3px solid #00f7ff"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ArchIsDead&color=00f7ff&style=flat" alt="visitors"/> 
+</p>
+
+<!-- DAILY CODING ACTIVITY -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArchIsDead&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00a2ff&point=00f7ff" alt="activity"/>
 </p>
 
 <!-- SPOTIFY NOW PLAYING -->
