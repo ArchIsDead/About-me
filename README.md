@@ -1,14 +1,14 @@
 <div align="center">
   
-  <!-- Header with Roblox-themed colors -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A2FF&height=200&section=header&text=ArchIsDead&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30" alt="Header" />
+  <!-- Roblox-themed header with waving animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A2FF&height=200&section=header&text=ArchIsDead&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Creator%20of%20RE-Hub&descAlignY=50" alt="Header" />
 
-  <!-- Animated typing text with Roblox focus -->
+  <!-- Dynamic typing text -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Roblox+Script+Developer;Lua+Specialist;Game+Systems+Creator;UI%2FUX+Scripter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Roblox+Scripter;RE-Hub+Creator;Lua+Developer;Systems+Automation" alt="Typing SVG" />
   </h1>
 
-  <!-- Social badges (YouTube, GitHub, TikTok, Roblox) -->
+  <!-- Social badges -->
   <div align="center" style="margin: 15px 0">
     <a href="https://youtube.com/[YOUR_CHANNEL]" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -24,44 +24,34 @@
     </a>
   </div>
 
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats -->
   <div align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArchIsDead&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchIsDead&layout=compact&theme=algolia&hide_border=true&langs_count=6&hide=html,css,scss" alt="Top Languages" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchIsDead&layout=compact&theme=algolia&hide_border=true&langs_count=6&hide=html,css,scss&exclude_repo=repo1,repo2" alt="Top Languages" />
   </div>
 
-  <!-- Roblox Tech Stack -->
-  <h2 align="center">🛠️ Roblox Development Stack</h2>
+  <!-- RE-Hub Spotlight Section -->
+  <h2 align="center">🌟 RE-Hub</h2>
+  <p align="center">My custom Roblox scripting solution for efficient game development</p>
   <div align="center">
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-    <img src="https://img.shields.io/badge/Roblox Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
-    <img src="https://img.shields.io/badge/Roact-00A2FF?style=for-the-badge" alt="Roact" />
-    <img src="https://img.shields.io/badge/Rodux-00A2FF?style=for-the-badge" alt="Rodux" />
-    <img src="https://img.shields.io/badge/Remote Events-00A2FF?style=for-the-badge" alt="Remote Events" />
-    <img src="https://img.shields.io/badge/Data Stores-00A2FF?style=for-the-badge" alt="Data Stores" />
-  </div>
-
-  <!-- Spotify Playing (Working Version) -->
-  <h2 align="center">🎧 Currently Playing</h2>
-  <div align="center">
-    [![Spotify](https://spotify-readme-archisdead.vercel.app/api/spotify)](https://open.spotify.com/user/[YOUR_SPOTIFY_ID])
-  </div>
-
-  <!-- Roblox Projects Showcase -->
-  <h2 align="center">🎮 Roblox Projects</h2>
-  <div align="center">
-    <a href="[PROJECT_LINK_1]">
-      <img width="30%" src="[PROJECT_IMAGE_1]" alt="Project 1" />
-    </a>
-    <a href="[PROJECT_LINK_2]">
-      <img width="30%" src="[PROJECT_IMAGE_2]" alt="Project 2" />
-    </a>
-    <a href="[PROJECT_LINK_3]">
-      <img width="30%" src="[PROJECT_IMAGE_3]" alt="Project 3" />
+    <a href="[RE-HUB_GITHUB_LINK]">
+      <img width="60%" src="https://via.placeholder.com/600x200/00A2FF/FFFFFF?text=RE-Hub+Roblox+Scripting+Tool" alt="RE-Hub" />
     </a>
   </div>
 
-  <!-- Footer with Roblox theme -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A2FF&height=100&section=footer&fontSize=30" alt="Footer" />
+  <!-- Roblox Profile Badge -->
+  <h2 align="center">📊 Roblox Profile</h2>
+  <div align="center">
+    <img src="https://roblox-badge.vercel.app/api/badge?userId=[YOUR_ROBLOX_ID]&showRank=true" alt="Roblox Badge" />
+  </div>
 
+  <!-- Spotify Now Playing -->
+  <h2 align="center">🎧 Now Playing</h2>
+  <div align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=[YOUR_SPOTIFY_ID]&count=1&width=400" alt="Spotify" />
+  </div>
+
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A2FF&height=100&section=footer" alt="Footer" />
+  
 </div>
