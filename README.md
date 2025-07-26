@@ -27,24 +27,14 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchIsDead&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,scss&bg_color=0d1117&title_color=00A2FF&text_color=ffffff&border_radius=15" alt="languages"/>
 </p>
 
-<!-- RE-HUB SHOWCASE SECTION -->
-<h2 align="center"> 
-  <img src="https://img.shields.io/badge/-🚀_RE--Hub_Ecosystem-00f7ff?style=for-the-badge&logoWidth=30"/>
-</h2>
-<p align="center">
-  <a href="https://github.com/ArchIsDead/RE-Hub" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArchIsDead&repo=RE-Hub&theme=dark&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&border_color=00f7ff&border_radius=15" alt="RE-Hub"/>
-  </a>
-</p>
-
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArchIsDead&color=00f7ff&style=flat" alt="visitors"/> 
+  <img src="https://komarev.com/ghpvc/?username=ArchIsDead&color=00A2FF&style=flat" alt="visitors"/> 
 </p>
 
 <!-- DAILY CODING ACTIVITY -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArchIsDead&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00a2ff&point=00f7ff" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArchIsDead&theme=react-dark&bg_color=0d1117&color=00A2FF&line=00a2ff&point=00f7ff" alt="activity"/>
 </p>
 
 <!-- SPOTIFY NOW PLAYING -->
