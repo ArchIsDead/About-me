@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00A2FF&height=200&section=header&text=ArchIsDead&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Creator%20of%20RE-Hub&descAlignY=50" alt="Header" />
 
 <!-- ANIMATED TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Roblox+Scripter;RE-Hub+Creator;Lua+Specialist;Sahabat+Team+Tester" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Roblox+Scripter;RE-Hub+Developer;Scripting-Newbie;Sahabat+Productions+Tester" alt="typing animation"/>
 
 <!-- SOCIAL BADGES WITH BUILT-IN HOVER EFFECTS -->
 <p align="center">
   <a href="https://youtube.com/archthehonoredone" target="_blank">
-    <img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-00A2FF?logo=youtube&logoColor=white"/>
+    <img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-FF0000?logo=youtube&logoColor=white"/>
   </a>
   <a href="https://github.com/ArchIsDead" target="_blank">
     <img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/-GitHub-100000?logo=github&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 <!-- STATS CARDS WITH 3D EFFECT -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArchIsDead&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=00a2ff&border_radius=15" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArchIsDead&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00A2FF&text_color=ffffff&icon_color=00a2ff&border_radius=15" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchIsDead&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,scss&bg_color=0d1117&title_color=00A2FF&text_color=ffffff&border_radius=15" alt="languages"/>
 </p>
 
