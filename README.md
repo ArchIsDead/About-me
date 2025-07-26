@@ -42,7 +42,7 @@
   <!-- Roblox Profile Badge -->
   <h2 align="center">📊 Roblox Profile</h2>
   <div align="center">
-    <img src="https://roblox-badge.vercel.app/api/badge?userId=3532024703&showRank=true" alt="Roblox Badge" />
+    <img src="https://api.blox.link/v1/user/Y3532024703" alt="Roblox Badge" />
   </div>
 
   <!-- Spotify Now Playing -->
