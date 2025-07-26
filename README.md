@@ -3,11 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00A2FF&height=200&section=header&text=ArchIsDead&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Developer%20of%20RE-Hub&descAlignY=50" alt="Header" />
 
 <!-- ANIMATED TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Roblox+Scripter;RE-Hub+Developer;Scripting-Newbie;Sahabat+Productions+Tester" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Roblox+Scripter;RE-Hub+Developer;Scripting+Newbie;Sahabat+Productions+Tester" alt="typing animation"/>
 
 <!-- SOCIAL BADGES WITH BUILT-IN HOVER EFFECTS -->
 <p align="center">
-  <a href="https://youtube.com/archthehonoredone" target="_blank">
+  <a href="https://youtube.com/@archthehonoredone" target="_blank">
     <img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-FF0000?logo=youtube&logoColor=white"/>
   </a>
   <a href="https://github.com/ArchIsDead" target="_blank">
@@ -39,7 +39,7 @@
 
 <!-- SPOTIFY NOW PLAYING -->
 <h2 align="center"> 
-  <img src="https://img.shields.io/badge/-🎧_Now_Playing-00A2FF?style=for-the-badge&logoWidth=30"/>
+  <img src="https://img.shields.io/badge/-🎧_Listening_to-00A2FF?style=for-the-badge&logoWidth=30"/>
 </h2>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31acdgenrsw2sn5mtmof5unvnjsy&count=1&width=400" alt="Spotify"/>
