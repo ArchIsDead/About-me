@@ -5,21 +5,21 @@
 
   <!-- Dynamic typing text -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Roblox+Scripter;RE-Hub+Creator;Lua+Developer;Systems+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Roblox+Scripter;RE-Hub+Developer;Sahabat+Productions+Tester" alt="Typing SVG" />
   </h1>
 
   <!-- Social badges -->
   <div align="center" style="margin: 15px 0">
-    <a href="https://youtube.com/[YOUR_CHANNEL]" target="_blank">
+    <a href="https://youtube.com/archthehonoredone" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
     <a href="https://github.com/ArchIsDead" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://tiktok.com/@[YOUR_USERNAME]" target="_blank">
+    <a href="https://tiktok.com/@archtheslut" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
     </a>
-    <a href="https://roblox.com/users/[YOUR_ID]/profile" target="_blank">
+    <a href="https://roblox.com/users/3532024703/profile" target="_blank">
       <img src="https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
     </a>
   </div>
