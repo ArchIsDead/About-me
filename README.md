@@ -48,7 +48,7 @@
   <!-- Spotify Now Playing -->
   <h2 align="center">🎧 Now Playing</h2>
   <div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=[YOUR_SPOTIFY_ID]&count=1&width=400" alt="Spotify" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31acdgenrsw2sn5mtmof5unvnjsy&count=1&width=400" alt="Spotify" />
   </div>
 
   <!-- Footer -->
