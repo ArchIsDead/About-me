@@ -42,7 +42,7 @@
   <!-- Roblox Profile Badge -->
   <h2 align="center">📊 Roblox Profile</h2>
   <div align="center">
-    <img src="https://img.shields.io/badge/Roblox-kaiton_280-00A2FF?logo=roblox&logoColor=white" alt="Roblox Badge" />
+    <img src="https://roblox.plus/api/profile/badges/username/kaiton_280" alt="Roblox Badge" />
   </div>
 
   <!-- Spotify Now Playing -->
